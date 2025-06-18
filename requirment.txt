@@ -1,3 +1,5 @@
-flask
-pandas
+Flask
 scikit-learn
+gunicorn
+pandas
+
